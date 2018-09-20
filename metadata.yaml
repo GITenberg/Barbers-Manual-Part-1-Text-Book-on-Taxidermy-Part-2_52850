@@ -1,0 +1,25 @@
+_repo: Barbers-Manual-Part-1-Text-Book-on-Taxidermy-Part-2_52850
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McConnaughay, T. J.
+    gutenberg_agent_id: '47081'
+    url: http://www.gutenberg.org/2009/agents/47081
+description: ''
+gutenberg_issued: '2016-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52850'
+  lccn: '98000381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Barbering'
+- !lcsh 'Taxidermy'
+- !lcc 'QL'
+- !lcc 'TT'
+- GITenberg
+title: Barbers' Manual (Part 1); Text Book on Taxidermy (Part 2)
+url: http://www.gutenberg.org/ebooks/52850
